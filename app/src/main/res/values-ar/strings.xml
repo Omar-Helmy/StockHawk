@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_change_units"></string>
+    <string name="dialog_title">اضف رصيد</string>
+    <string name="error_no_network">لا يوجد اتصال بالانترنت!</string>
+    <string name="error_no_stocks">لم يتم اضافة رصيد! اضغط للاضافة</string>
+    <string name="dialog_add">اضافة</string>
+    <string name="dialog_cancel">الغاء</string>
+    <string name="dialog_hint">رمز  (GOOG)</string>
+    <string name="chart_no_data">لا يوجد بيانات</string>
+    <string name="toast_no_connectivity">سيتم اعادة التحميل عند الاتصال بالانترنت</string>
+</resources>
